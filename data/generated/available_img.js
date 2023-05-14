@@ -1,0 +1,1 @@
+const availableImg = ["Beck2016Visual","10.1145:3124087.3124094"];
